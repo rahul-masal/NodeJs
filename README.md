@@ -1,7 +1,7 @@
 # NodeJs
 
-When to use NodeJs?
-> I/O bound 
-> Data Streaming Applications
-> Real time chat Applications
+When to use NodeJs?<br />
+> I/O bound <br />
+> Data Streaming Applications<br />
+> Real time chat Applications<br />
 
